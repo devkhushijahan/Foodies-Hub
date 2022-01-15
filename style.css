@@ -23,7 +23,7 @@ section{
     height: 800px; ;
 }
 .hilight{
-    color: blue;
+    color: rebeccapurple;
 }
 .para{
     font-size: 21px;
@@ -65,33 +65,36 @@ padding-left: 2%;
 .footer-decor{
     padding: 20px;
     text-align: center;
-    background-color: black;
+    background-color: pink;
 
 }
 .footer-decor p{
-    color: white;
+    color: black;
 }
 .triple-width{
-    width: 25%;
+    width: 250px;
     float: left;
     margin-left: 3%;
     padding: 2%;
     border: cornflowerblue;
     background-color:white;
-    background-size: 100%;
+    
     box-shadow: 10px 10px 20px grey;
     border-radius: 10px;
-    height: 50%;
+   
+   
     
 }
 .triple-width img
 {
-    width: 100%;
+    width: 250px;
+    height: 250px;
 }
 
 .my-recipe{
-    margin-top: -2px;
-    height: 700px;
+    
+    
+    margin: auto;
     
 }
 .p2{
@@ -123,7 +126,7 @@ ul {
   
 .li-item {
     display: block;
-    color: #666;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -131,7 +134,7 @@ ul {
   }
   
   li a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: black;
   }
 
 .about-area{
